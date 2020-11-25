@@ -31,4 +31,3 @@ public class Main {
         else System.out.println("NO");
     }
 }
-http://codeforces.com/contest/296/problem/A
